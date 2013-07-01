@@ -1,4 +1,4 @@
 dalebroslocations
 =================
 
-Dale Bros Locations
+A map of places where you can buy delicious Dale Bros Beer. 
