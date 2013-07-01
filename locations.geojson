@@ -14,7 +14,7 @@
             "City":"Upland"
          },
          "type":"Feature",
-         "market-symbol":"alcohol-shop"
+         "market-symbol":"alcohol-shop",
          "geometry":{
             "type":"Point",
             "coordinates":[
