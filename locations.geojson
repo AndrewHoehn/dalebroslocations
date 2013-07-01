@@ -1,1 +1,1898 @@
-{"features":[{"id":"Dale Bros Brewery","properties":{"Name":"Dale Bros Brewery","State":"CA","Type":"Brewery","Address":"2120 Porterfield Way","geo_accuracy":"","Zip":91786,"geo_longitude":-117.690919,"geo_latitude":34.109162,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.690919,34.109162]}},{"id":"Dillon\u0027s Irish Pub","properties":{"Name":"Dillon\u0027s Irish Pub","State":"CA","Type":"Pub","Address":"129 N Harvard Ave","geo_accuracy":"","Zip":91711,"geo_longitude":-117.716595,"geo_latitude":34.095185,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.716595,34.095185]}},{"id":"Candlelight Pavilion","properties":{"Name":"Candlelight Pavilion","State":"CA","Type":"Restaurant ","Address":"455 W Foothill Blvd","geo_accuracy":"primary","Zip":91711,"geo_longitude":-117.7516861,"geo_latitude":34.1088645,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7516861,34.1088645]}},{"id":"Casa 425","properties":{"Name":"Casa 425","State":"CA","Type":"Bar","Address":"425 W 1st St","geo_accuracy":"residential","Zip":91711,"geo_longitude":-117.7177634,"geo_latitude":34.0945161,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7177634,34.0945161]}},{"id":"Chantrelle\u0027s Fine Catering","properties":{"Name":"Chantrelle\u0027s Fine Catering","State":"CA","Type":"Restaurant","Address":"4467 Padua Avenue","geo_accuracy":"secondary","Zip":91711,"geo_longitude":-117.6986154,"geo_latitude":34.1342102,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.6986154,34.1342102]}},{"id":"Cheese Cave","properties":{"Name":"Cheese Cave","State":"CA","Type":"Restaurant ","Address":"325 Yale Ave","geo_accuracy":"residential","Zip":91711,"geo_longitude":-117.7178882,"geo_latitude":34.0966419,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7178882,34.0966419]}},{"id":"Eddie\u0027s New York Pizzeria","properties":{"Name":"Eddie\u0027s New York Pizzeria","State":"CA","Type":"Restaurant ","Address":"1065 W Foothill Blvd","geo_accuracy":"primary","Zip":91711,"geo_longitude":-117.7516861,"geo_latitude":34.1088645,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7516861,34.1088645]}},{"id":"Espiau\u0027s","properties":{"Name":"Espiau\u0027s","State":"CA","Type":"Restaurant ","Address":"109 Yale Ave","geo_accuracy":"residential","Zip":91711,"geo_longitude":-117.7178882,"geo_latitude":34.0966419,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7178882,34.0966419]}},{"id":"Euro Café","properties":{"Name":"Euro Café","State":"CA","Type":"Restaurant ","Address":"546 E Baseline Rd","geo_accuracy":"primary","Zip":91711,"geo_longitude":-117.702662,"geo_latitude":34.1215909,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.702662,34.1215909]}},{"id":"Hip Kitty","properties":{"Name":"Hip Kitty","State":"CA","Type":"Restaurant ","Address":"502 W 1st St","geo_accuracy":"","Zip":91711,"geo_longitude":-117.721045,"geo_latitude":34.094597,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.721045,34.094597]}},{"id":"PianoPiano at the DoubleTree Hotel","properties":{"Name":"PianoPiano at the DoubleTree Hotel","State":"CA","Type":"Restaurant ","Address":"555 W Foothill Blvd","geo_accuracy":"primary","Zip":"","geo_longitude":-117.7516861,"geo_latitude":34.1088645,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7516861,34.1088645]}},{"id":"Pizza N Such","properties":{"Name":"Pizza N Such","State":"CA","Type":"Restaurant ","Address":"202 Yale Ave","geo_accuracy":"residential","Zip":91711,"geo_longitude":-117.7178882,"geo_latitude":34.0966419,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7178882,34.0966419]}},{"id":"Rounds Premium Burgers","properties":{"Name":"Rounds Premium Burgers","State":"CA","Type":"Restaurant ","Address":"885 S Indian Hill Blvd","geo_accuracy":"","Zip":91771,"geo_longitude":-117.719377,"geo_latitude":34.079748,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.719377,34.079748]}},{"id":"The Press Restaurant","properties":{"Name":"The Press Restaurant","State":"CA","Type":"Restaurant ","Address":"129 N Harvard Ave","geo_accuracy":"","Zip":91711,"geo_longitude":-117.716595,"geo_latitude":34.095185,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.716595,34.095185]}},{"id":"Tutti Mangia","properties":{"Name":"Tutti Mangia","State":"CA","Type":"Restaurant ","Address":"102 N Harvard Ave","geo_accuracy":"residential","Zip":91711,"geo_longitude":-117.7166745,"geo_latitude":34.1006438,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7166745,34.1006438]}},{"id":"Walter\u0027s Restaurant","properties":{"Name":"Walter\u0027s Restaurant","State":"CA","Type":"Restaurant ","Address":"310 Yale Ave","geo_accuracy":"residential","Zip":91711,"geo_longitude":-117.7178882,"geo_latitude":34.0966419,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7178882,34.0966419]}},{"id":"Clubhouse 66","properties":{"Name":"Clubhouse 66","State":"CA","Type":"Restaurant ","Address":"1200 E Rte 66","geo_accuracy":"","Zip":91740,"geo_longitude":-117.84227,"geo_latitude":34.128361,"City":"Glendora"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.84227,34.128361]}},{"id":"Frisella\u0027s Roastery","properties":{"Name":"Frisella\u0027s Roastery","State":"CA","Type":"Restaurant ","Address":"179 N  Ave ","geo_accuracy":"","Zip":91740,"geo_longitude":-117.872604,"geo_latitude":34.086276,"City":"Glendora"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.872604,34.086276]}},{"id":"Glendora Country Club","properties":{"Name":"Glendora Country Club","State":"CA","Type":"Restaurant ","Address":"2400 Country Club Dr","geo_accuracy":"house","Zip":91741,"geo_longitude":-117.8202581875,"geo_latitude":34.132475234375,"City":"Glendora"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.8202581875,34.132475234375]}},{"id":"Spaghetti Eddies","properties":{"Name":"Spaghetti Eddies","State":"CA","Type":"Restaurant ","Address":"946 S Grand Ave ","geo_accuracy":"house","Zip":"","geo_longitude":-117.872476528753,"geo_latitude":34.1219876601388,"City":"Glendora"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.872476528753,34.1219876601388]}},{"id":"T. Phillips Alehouse","properties":{"Name":"T. Phillips Alehouse","State":"CA","Type":"Restaurant ","Address":"180 N Glendora Ave","geo_accuracy":"","Zip":91741,"geo_longitude":-117.865339,"geo_latitude":34.136119,"City":"Glendora"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.865339,34.136119]}},{"id":"Oh Crab","properties":{"Name":"Oh Crab","State":"CA","Type":"Restaurant ","Address":"2020 S Hacienda Blvd Unit F","geo_accuracy":"","Zip":91745,"geo_longitude":-117.968675,"geo_latitude":33.993068,"City":"Hacienda Heights"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.968675,33.993068]}},{"id":"Chase\u0027s Wine \u0026 Beer Bar","properties":{"Name":"Chase\u0027s Wine \u0026 Beer Bar","State":"CA","Type":"Bar","Address":"2136 3rd St ","geo_accuracy":"house","Zip":91750,"geo_longitude":-117.769490645251,"geo_latitude":34.1002366578543,"City":"La Verne"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.769490645251,34.1002366578543]}},{"id":"Chili\u0027s","properties":{"Name":"Chili\u0027s","State":"CA","Type":"Restaurant ","Address":"1912 Foothill Blvd ","geo_accuracy":"house","Zip":91750,"geo_longitude":-117.769897432432,"geo_latitude":34.1147866756757,"City":"La Verne"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.769897432432,34.1147866756757]}},{"id":"House of Wings","properties":{"Name":"House of Wings","State":"CA","Type":"Restaurant ","Address":"2317 D St","geo_accuracy":"house","Zip":91750,"geo_longitude":-117.770159287701,"geo_latitude":34.1007633513419,"City":"La Verne"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.770159287701,34.1007633513419]}},{"id":"Lordsberg Taphouse","properties":{"Name":"Lordsberg Taphouse","State":"CA","Type":"Restaurant ","Address":"2335 D St ","geo_accuracy":"house","Zip":91750,"geo_longitude":-117.770105636234,"geo_latitude":34.1009010059456,"City":"La Verne"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.770105636234,34.1009010059456]}},{"id":"The Corner Butcher Shop","properties":{"Name":"The Corner Butcher Shop","State":"CA","Type":"Restaurant ","Address":"2359 Foothill Blvd ","geo_accuracy":"house","Zip":91750,"geo_longitude":-117.760311194444,"geo_latitude":34.1117587222222,"City":"La Verne"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.760311194444,34.1117587222222]}},{"id":"Applebee\u0027s","properties":{"Name":"Applebee\u0027s","State":"CA","Type":"Restaurant ","Address":"9241 Monte Vista Ave","geo_accuracy":"house","Zip":91763,"geo_longitude":-117.698159,"geo_latitude":34.0855053529412,"City":"Montclair"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.698159,34.0855053529412]}},{"id":"Vince\u0027s Spaghetti","properties":{"Name":"Vince\u0027s Spaghetti","State":"CA","Type":"Restaurant ","Address":"1206 W Holt Blvd","geo_accuracy":"house","Zip":91762,"geo_longitude":-117.672366252198,"geo_latitude":34.0633846675154,"City":"Ontario"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.672366252198,34.0633846675154]}},{"id":"Wingnuts","properties":{"Name":"Wingnuts","State":"CA","Type":"Restaurant ","Address":"1520 N Mountain Ave  ","geo_accuracy":"","Zip":91762,"geo_longitude":-117.667922,"geo_latitude":34.086417,"City":"Ontario"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.667922,34.086417]}},{"id":"Alibi East","properties":{"Name":"Alibi East","State":"CA","Type":"Bar","Address":" 225 S San Antonio Ave ","geo_accuracy":"house","Zip":91766,"geo_longitude":-117.737119612245,"geo_latitude":34.0578731632653,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.737119612245,34.0578731632653]}},{"id":"Aladdin Jr.","properties":{"Name":"Aladdin Jr.","State":"CA","Type":"Restaurant ","Address":"3161 N Garey Ave","geo_accuracy":"house","Zip":"","geo_longitude":-117.748688,"geo_latitude":34.1042004991134,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.748688,34.1042004991134]}},{"id":"Characters Sport Bar","properties":{"Name":"Characters Sport Bar","State":"CA","Type":"Bar","Address":"276 E 1st St. ","geo_accuracy":"","Zip":91766,"geo_longitude":-117.748253,"geo_latitude":34.058687,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.748253,34.058687]}},{"id":"dba256","properties":{"Name":"dba256","State":"CA","Type":"Bar","Address":"256 S Main St","geo_accuracy":"house","Zip":91766,"geo_longitude":-117.752199,"geo_latitude":34.0572857142857,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.752199,34.0572857142857]}},{"id":"Fox Sports Bar \u0026 Grill","properties":{"Name":"Fox Sports Bar \u0026 Grill","State":"CA","Type":"Bar","Address":"114 W 3rd St ","geo_accuracy":"house","Zip":91766,"geo_longitude":-117.750371428571,"geo_latitude":34.0568417142857,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.750371428571,34.0568417142857]}},{"id":"Hi Brow","properties":{"Name":"Hi Brow","State":"CA","Type":"Bar","Address":"547 E Foothill Blvd","geo_accuracy":"","Zip":91767,"geo_longitude":-117.739251,"geo_latitude":34.107612,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.739251,34.107612]}},{"id":"Pomona Valley Mining Company","properties":{"Name":"Pomona Valley Mining Company","State":"CA","Type":"Restaurant ","Address":"1777 Gillette Rd ","geo_accuracy":"house","Zip":91768,"geo_longitude":-117.784071952623,"geo_latitude":34.0738252329017,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.784071952623,34.0738252329017]}},{"id":"Restaurant at Kellogg Ranch","properties":{"Name":"Restaurant at Kellogg Ranch","State":"CA","Type":"Restaurant ","Address":" 3801 W Temple Ave #79 ","geo_accuracy":"residential","Zip":91768,"geo_longitude":-117.82069,"geo_latitude":34.050566,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.82069,34.050566]}},{"id":"The Rookery","properties":{"Name":"The Rookery","State":"CA","Type":"Restaurant ","Address":"117 W 2nd St","geo_accuracy":"","Zip":91766,"geo_longitude":-117.750651,"geo_latitude":34.057838,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.750651,34.057838]}},{"id":"McKinley\u0027s Grille","properties":{"Name":"McKinley\u0027s Grille","State":"CA","Type":"Restaurant ","Address":"601 W McKinley Ave","geo_accuracy":"house","Zip":91766,"geo_longitude":-117.761485,"geo_latitude":34.077995,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.761485,34.077995]}},{"id":"Anya\u0027s Pizza","properties":{"Name":"Anya\u0027s Pizza","State":"CA","Type":"Restaurant ","Address":"7270 Victoria Park Ln ","geo_accuracy":"house","Zip":91739,"geo_longitude":-117.530278,"geo_latitude":34.125397,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.530278,34.125397]}},{"id":"Barboni\u0027s Pizza","properties":{"Name":"Barboni\u0027s Pizza","State":"CA","Type":"Restaurant ","Address":"9792 19th St ","geo_accuracy":"house","Zip":91737,"geo_longitude":-117.591623265895,"geo_latitude":34.1328572088576,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.591623265895,34.1328572088576]}},{"id":"Four Points Sheraton","properties":{"Name":"Four Points Sheraton","State":"CA","Type":"Restaurant ","Address":"11960 E Foothill Blvd ","geo_accuracy":"","Zip":91739,"geo_longitude":-117.542759,"geo_latitude":34.106705,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.542759,34.106705]}},{"id":"Lazy Dog Café","properties":{"Name":"Lazy Dog Café","State":"CA","Type":"Restaurant ","Address":"11560 4th St ","geo_accuracy":"house","Zip":91730,"geo_longitude":-117.553268556044,"geo_latitude":34.0773457146415,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.553268556044,34.0773457146415]}},{"id":"Pizza Royal","properties":{"Name":"Pizza Royal","State":"CA","Type":"Restaurant ","Address":"8671 Base Line Rd ","geo_accuracy":"house","Zip":91730,"geo_longitude":-117.616775148148,"geo_latitude":34.121483,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.616775148148,34.121483]}},{"id":"San Dimas Wine Shop","properties":{"Name":"San Dimas Wine Shop","State":"CA","Type":"Bar","Address":"225 W Bonita Ave","geo_accuracy":"house","Zip":91773,"geo_longitude":-117.809730384615,"geo_latitude":34.1067448461538,"City":"San Dimas"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.809730384615,34.1067448461538]}},{"id":"Black Watch Pub","properties":{"Name":"Black Watch Pub","State":"CA","Type":"Pub","Address":"497 N Central Ave","geo_accuracy":"house","Zip":91786,"geo_longitude":-117.689734006711,"geo_latitude":34.0968311879195,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.689734006711,34.0968311879195]}},{"id":"Grazi\u0027s Italian Restaurant","properties":{"Name":"Grazi\u0027s Italian Restaurant","State":"CA","Type":"Restaurant ","Address":"1615 N Mountain Ave","geo_accuracy":"house","Zip":91784,"geo_longitude":-117.670399976138,"geo_latitude":34.107916,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.670399976138,34.107916]}},{"id":"JD Allison\u0027s Bar \u0026 Grill","properties":{"Name":"JD Allison\u0027s Bar \u0026 Grill","State":"CA","Type":"Bar","Address":"291 N 2nd Ave ","geo_accuracy":"house","Zip":91786,"geo_longitude":-117.648538631474,"geo_latitude":34.0970907310851,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.648538631474,34.0970907310851]}},{"id":"Limericks Tavern","properties":{"Name":"Limericks Tavern","State":"CA","Type":"Bar","Address":"1234 W Foothill Blvd  ","geo_accuracy":"","Zip":91786,"geo_longitude":-117.671903,"geo_latitude":34.105821,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.671903,34.105821]}},{"id":"Magdaleno\u0027s Restaurant","properties":{"Name":"Magdaleno\u0027s Restaurant","State":"CA","Type":"Restaurant ","Address":"220 N Central Ave ","geo_accuracy":"house","Zip":91786,"geo_longitude":-117.689536795918,"geo_latitude":34.0968612857143,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.689536795918,34.0968612857143]}},{"id":"Outback Steakhouse","properties":{"Name":"Outback Steakhouse","State":"CA","Type":"Restaurant ","Address":"530 N Mountain Ave","geo_accuracy":"house","Zip":91786,"geo_longitude":-117.67008401335,"geo_latitude":34.1025575853569,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.67008401335,34.1025575853569]}},{"id":"Scoully\u0027s Sports Bar","properties":{"Name":"Scoully\u0027s Sports Bar","State":"CA","Type":"Bar","Address":"1041 E 16th St ","geo_accuracy":"","Zip":91784,"geo_longitude":-117.636997,"geo_latitude":34.121744,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.636997,34.121744]}},{"id":"Tequila Hoppers","properties":{"Name":"Tequila Hoppers","State":"CA","Type":"Bar","Address":"60 N Mountain Ave  ","geo_accuracy":"house","Zip":91786,"geo_longitude":-117.670052272035,"geo_latitude":34.0949305537358,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.670052272035,34.0949305537358]}},{"id":"The Arena","properties":{"Name":"The Arena","State":"CA","Type":"Bar","Address":"1721 W 11th St  ","geo_accuracy":"house","Zip":91786,"geo_longitude":-117.683399723287,"geo_latitude":34.1033288822137,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.683399723287,34.1033288822137]}},{"id":"The Buffalo Inn","properties":{"Name":"The Buffalo Inn","State":"CA","Type":"Restaurant ","Address":"1814 W Foothill  Blvd ","geo_accuracy":"","Zip":91786,"geo_longitude":-117.687724,"geo_latitude":34.106572,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.687724,34.106572]}},{"id":"The Bulldog Pub","properties":{"Name":"The Bulldog Pub","State":"CA","Type":"Pub","Address":"1667 N Mountain Ave","geo_accuracy":"house","Zip":91784,"geo_longitude":-117.670404669382,"geo_latitude":34.1236345737013,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.670404669382,34.1236345737013]}},{"id":"The Heights Restaurant","properties":{"Name":"The Heights Restaurant","State":"CA","Type":"Restaurant ","Address":"1883 N Campus Ave","geo_accuracy":"","Zip":91784,"geo_longitude":-117.640724,"geo_latitude":34.131848,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.640724,34.131848]}},{"id":"The Sand Bar","properties":{"Name":"The Sand Bar","State":"CA","Type":"Bar","Address":"5363 Arrow Hwy","geo_accuracy":"house","Zip":"","geo_longitude":-117.688005377778,"geo_latitude":34.092261,"City":" Montclair"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.688005377778,34.092261]}},{"id":"Stater Bros. Markets","properties":{"Name":"Stater Bros. Markets","State":"CA","Type":"Store","Address":"6989 Schaefer Ave","geo_accuracy":"house","Zip":"","geo_longitude":-117.652576640106,"geo_latitude":34.0047162170685,"City":" Chino"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.652576640106,34.0047162170685]}},{"id":"BevMo","properties":{"Name":"BevMo","State":"CA","Type":"Store","Address":"12945 Peyton Dr","geo_accuracy":"house","Zip":91709,"geo_longitude":-117.744782163921,"geo_latitude":34.0184267559936,"City":"Chino Hills"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.744782163921,34.0184267559936]}},{"id":"SuperStop Liquor","properties":{"Name":"SuperStop Liquor","State":"CA","Type":"Store","Address":"3440 Falcon St","geo_accuracy":"house","Zip":"","geo_longitude":-117.753850027908,"geo_latitude":34.1089502402031,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.753850027908,34.1089502402031]}},{"id":"Guillens Central Liquor","properties":{"Name":"Guillens Central Liquor","State":"CA","Type":"Store","Address":"13115 Central Ave","geo_accuracy":"house","Zip":"","geo_longitude":-117.689176211692,"geo_latitude":34.0151772882208,"City":"Chino"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.689176211692,34.0151772882208]}},{"id":"Stater Bros. Markets","properties":{"Name":"Stater Bros. Markets","State":"CA","Type":"Store","Address":"14250  Chino HIlls Pkwy","geo_accuracy":"","Zip":91709,"geo_longitude":-117.757927,"geo_latitude":33.994718,"City":"Chino Hills"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.757927,33.994718]}},{"id":"BevMo","properties":{"Name":"BevMo","State":"CA","Type":"Store","Address":"21660 Valley Blvd ","geo_accuracy":"primary","Zip":91789,"geo_longitude":-117.9475666,"geo_latitude":34.0152504,"City":"City of Industry"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.9475666,34.0152504]}},{"id":"La West","properties":{"Name":"La West","State":"CA","Type":"Store","Address":"333 E Arrow Hwy","geo_accuracy":"house","Zip":91711,"geo_longitude":-117.710456529219,"geo_latitude":34.09154183764,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.710456529219,34.09154183764]}},{"id":"Packing House Wine Merchants","properties":{"Name":"Packing House Wine Merchants","State":"CA","Type":"Store","Address":"540 W 1st St","geo_accuracy":"","Zip":91711,"geo_longitude":-117.720938,"geo_latitude":34.094539,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.720938,34.094539]}},{"id":"Rocky Liquor","properties":{"Name":"Rocky Liquor","State":"CA","Type":"Store","Address":"1045 W Foothill Blvd","geo_accuracy":"primary","Zip":91711,"geo_longitude":-117.7516861,"geo_latitude":34.1088645,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7516861,34.1088645]}},{"id":"Stater Bros. Markets","properties":{"Name":"Stater Bros. Markets","State":"CA","Type":"Store","Address":"1055 W Foothill Blvd","geo_accuracy":"primary","Zip":91711,"geo_longitude":-117.7516861,"geo_latitude":34.1088645,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.7516861,34.1088645]}},{"id":"Wolfe\u0027s Market","properties":{"Name":"Wolfe\u0027s Market","State":"CA","Type":"Store","Address":"160 W Foothill Blvd","geo_accuracy":"house","Zip":91711,"geo_longitude":-117.749932333333,"geo_latitude":34.1081946666667,"City":"Claremont"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.749932333333,34.1081946666667]}},{"id":"BevMo","properties":{"Name":"BevMo","State":"CA","Type":"Store","Address":"1397 E Gladstone St","geo_accuracy":"house","Zip":"","geo_longitude":-117.839258369534,"geo_latitude":34.113996147223,"City":"Glendora"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.839258369534,34.113996147223]}},{"id":"Stater Bros. Markets","properties":{"Name":"Stater Bros. Markets","State":"CA","Type":"Store","Address":"1830 E Rte 66","geo_accuracy":"","Zip":91740,"geo_longitude":-117.830292,"geo_latitude":34.127056,"City":"Glendora"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.830292,34.127056]}},{"id":"Stater Bros. Markets","properties":{"Name":"Stater Bros. Markets","State":"CA","Type":"Store","Address":"2090 Foothill Blvd","geo_accuracy":"house","Zip":91750,"geo_longitude":-117.765494,"geo_latitude":34.113314,"City":"La Verne"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.765494,34.113314]}},{"id":"Stater Bros. Markets","properties":{"Name":"Stater Bros. Markets","State":"CA","Type":"Store","Address":"9575 Central Ave","geo_accuracy":"house","Zip":91763,"geo_longitude":-117.689449393939,"geo_latitude":34.0799683838384,"City":"Montclair"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.689449393939,34.0799683838384]}},{"id":"Stater Bros. Markets","properties":{"Name":"Stater Bros. Markets","State":"CA","Type":"Store","Address":"1939 E 4th St","geo_accuracy":"residential","Zip":"","geo_longitude":-117.804904,"geo_latitude":34.110673,"City":"Ontario"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.804904,34.110673]}},{"id":"Pomona Wine Cellar","properties":{"Name":"Pomona Wine Cellar","State":"CA","Type":"Store","Address":"468 E Holt Ave.","geo_accuracy":"","Zip":91767,"geo_longitude":-117.742179,"geo_latitude":34.062263,"City":"Pomona"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.742179,34.062263]}},{"id":"BevMo","properties":{"Name":"BevMo","State":"CA","Type":"Store","Address":"12204 E Foothill Blvd.","geo_accuracy":"","Zip":91739,"geo_longitude":-117.538891,"geo_latitude":34.107604,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.538891,34.107604]}},{"id":"Liquor Paradise","properties":{"Name":"Liquor Paradise","State":"CA","Type":"Store","Address":"10277 Foothill Blvd","geo_accuracy":"house","Zip":91730,"geo_longitude":-117.579854201139,"geo_latitude":34.1065315585409,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.579854201139,34.1065315585409]}},{"id":"Ramona Liquor","properties":{"Name":"Ramona Liquor","State":"CA","Type":"Store","Address":"9950 E Foothill Blvd ","geo_accuracy":"primary","Zip":91730,"geo_longitude":-117.6286613,"geo_latitude":34.1067046,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.6286613,34.1067046]}},{"id":"Red Carpet Wine \u0026 Spirits","properties":{"Name":"Red Carpet Wine \u0026 Spirits","State":"CA","Type":"Store","Address":" 8678 19th St # 150 ","geo_accuracy":"house","Zip":91701,"geo_longitude":-117.616484,"geo_latitude":34.132702,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.616484,34.132702]}},{"id":"Stater Bros. Markets","properties":{"Name":"Stater Bros. Markets","State":"CA","Type":"Store","Address":"9750 19th St","geo_accuracy":"house","Zip":"","geo_longitude":-117.592517,"geo_latitude":34.132822,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.592517,34.132822]}},{"id":"Total Wine \u0026 More","properties":{"Name":"Total Wine \u0026 More","State":"CA","Type":"Store","Address":"8201 Day Creek Blvd ","geo_accuracy":"secondary","Zip":91739,"geo_longitude":-117.5366564,"geo_latitude":34.1470086,"City":"Rancho Cucamonga"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.5366564,34.1470086]}},{"id":"Bourbon Street Market","properties":{"Name":"Bourbon Street Market","State":"CA","Type":"Store","Address":"1621 N Mountain Ave  ","geo_accuracy":"house","Zip":91784,"geo_longitude":-117.670400511409,"geo_latitude":34.1222458107603,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.670400511409,34.1222458107603]}},{"id":"Euclid Liquor","properties":{"Name":"Euclid Liquor","State":"CA","Type":"Store","Address":"140 S Euclid Ave","geo_accuracy":"house","Zip":91786,"geo_longitude":-117.651029368101,"geo_latitude":34.0932239792541,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.651029368101,34.0932239792541]}},{"id":"Liquorama","properties":{"Name":"Liquorama","State":"CA","Type":"Store","Address":"901 W Foothill Blvd # A","geo_accuracy":"house","Zip":91786,"geo_longitude":-117.387959,"geo_latitude":34.106672,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.387959,34.106672]}},{"id":"Stater Bros. Markets","properties":{"Name":"Stater Bros. Markets","State":"CA","Type":"Store","Address":"919 N Mountain Ave","geo_accuracy":"house","Zip":"","geo_longitude":-117.670310675286,"geo_latitude":34.1055898940747,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.670310675286,34.1055898940747]}},{"id":"Pacific Wine Merchants","properties":{"Name":"Pacific Wine Merchants","State":"CA","Type":"Store","Address":" 210 E A St  ","geo_accuracy":"house","Zip":91786,"geo_longitude":-117.648259287066,"geo_latitude":34.094691,"City":"Upland"},"type":"Feature","geometry":{"type":"Point","coordinates":[-117.648259287066,34.094691]}}],"type":"FeatureCollection"}
+{
+   "features":[
+   		
+      {
+         "id":"Dale Bros Brewery",
+         "properties":{
+            "Name":"Dale Bros Brewery",
+            "State":"CA",
+            "Type":"Brewery",
+            "Address":"2120 Porterfield Way",
+            "Zip":91786,
+            "geo_longitude":-117.690919,
+            "geo_latitude":34.109162,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "market-symbol":"alcohol-shop"
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.690919,
+               34.109162
+            ]
+         }
+      },
+      {
+         "id":"Dillon\u0027s Irish Pub",
+         "properties":{
+            "Name":"Dillon\u0027s Irish Pub",
+            "State":"CA",
+            "Type":"Pub",
+            "Address":"129 N Harvard Ave",
+            "Zip":91711,
+            "geo_longitude":-117.716595,
+            "geo_latitude":34.095185,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.716595,
+               34.095185
+            ]
+         }
+      },
+      {
+         "id":"Candlelight Pavilion",
+         "properties":{
+            "Name":"Candlelight Pavilion",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"455 W Foothill Blvd",
+            "geo_accuracy":"primary",
+            "Zip":91711,
+            "geo_longitude":-117.7516861,
+            "geo_latitude":34.1088645,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7516861,
+               34.1088645
+            ]
+         }
+      },
+      {
+         "id":"Casa 425",
+         "properties":{
+            "Name":"Casa 425",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"425 W 1st St",
+            "geo_accuracy":"residential",
+            "Zip":91711,
+            "geo_longitude":-117.7177634,
+            "geo_latitude":34.0945161,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7177634,
+               34.0945161
+            ]
+         }
+      },
+      {
+         "id":"Chantrelle\u0027s Fine Catering",
+         "properties":{
+            "Name":"Chantrelle\u0027s Fine Catering",
+            "State":"CA",
+            "Type":"Restaurant",
+            "Address":"4467 Padua Avenue",
+            "geo_accuracy":"secondary",
+            "Zip":91711,
+            "geo_longitude":-117.6986154,
+            "geo_latitude":34.1342102,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.6986154,
+               34.1342102
+            ]
+         }
+      },
+      {
+         "id":"Cheese Cave",
+         "properties":{
+            "Name":"Cheese Cave",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"325 Yale Ave",
+            "geo_accuracy":"residential",
+            "Zip":91711,
+            "geo_longitude":-117.7178882,
+            "geo_latitude":34.0966419,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7178882,
+               34.0966419
+            ]
+         }
+      },
+      {
+         "id":"Eddie\u0027s New York Pizzeria",
+         "properties":{
+            "Name":"Eddie\u0027s New York Pizzeria",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"1065 W Foothill Blvd",
+            "geo_accuracy":"primary",
+            "Zip":91711,
+            "geo_longitude":-117.7516861,
+            "geo_latitude":34.1088645,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7516861,
+               34.1088645
+            ]
+         }
+      },
+      {
+         "id":"Espiau\u0027s",
+         "properties":{
+            "Name":"Espiau\u0027s",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"109 Yale Ave",
+            "geo_accuracy":"residential",
+            "Zip":91711,
+            "geo_longitude":-117.7178882,
+            "geo_latitude":34.0966419,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7178882,
+               34.0966419
+            ]
+         }
+      },
+      {
+         "id":"Euro Café",
+         "properties":{
+            "Name":"Euro Café",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"546 E Baseline Rd",
+            "geo_accuracy":"primary",
+            "Zip":91711,
+            "geo_longitude":-117.702662,
+            "geo_latitude":34.1215909,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.702662,
+               34.1215909
+            ]
+         }
+      },
+      {
+         "id":"Hip Kitty",
+         "properties":{
+            "Name":"Hip Kitty",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"502 W 1st St",
+            "Zip":91711,
+            "geo_longitude":-117.721045,
+            "geo_latitude":34.094597,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.721045,
+               34.094597
+            ]
+         }
+      },
+      {
+         "id":"PianoPiano at the DoubleTree Hotel",
+         "properties":{
+            "Name":"PianoPiano at the DoubleTree Hotel",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"555 W Foothill Blvd",
+            "geo_accuracy":"primary",
+            "Zip":"",
+            "geo_longitude":-117.7516861,
+            "geo_latitude":34.1088645,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7516861,
+               34.1088645
+            ]
+         }
+      },
+      {
+         "id":"Pizza N Such",
+         "properties":{
+            "Name":"Pizza N Such",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"202 Yale Ave",
+            "geo_accuracy":"residential",
+            "Zip":91711,
+            "geo_longitude":-117.7178882,
+            "geo_latitude":34.0966419,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7178882,
+               34.0966419
+            ]
+         }
+      },
+      {
+         "id":"Rounds Premium Burgers",
+         "properties":{
+            "Name":"Rounds Premium Burgers",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"885 S Indian Hill Blvd",
+            "Zip":91771,
+            "geo_longitude":-117.719377,
+            "geo_latitude":34.079748,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.719377,
+               34.079748
+            ]
+         }
+      },
+      {
+         "id":"The Press Restaurant",
+         "properties":{
+            "Name":"The Press Restaurant",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"129 N Harvard Ave",
+            "Zip":91711,
+            "geo_longitude":-117.716595,
+            "geo_latitude":34.095185,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.716595,
+               34.095185
+            ]
+         }
+      },
+      {
+         "id":"Tutti Mangia",
+         "properties":{
+            "Name":"Tutti Mangia",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"102 N Harvard Ave",
+            "geo_accuracy":"residential",
+            "Zip":91711,
+            "geo_longitude":-117.7166745,
+            "geo_latitude":34.1006438,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7166745,
+               34.1006438
+            ]
+         }
+      },
+      {
+         "id":"Walter\u0027s Restaurant",
+         "properties":{
+            "Name":"Walter\u0027s Restaurant",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"310 Yale Ave",
+            "geo_accuracy":"residential",
+            "Zip":91711,
+            "geo_longitude":-117.7178882,
+            "geo_latitude":34.0966419,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7178882,
+               34.0966419
+            ]
+         }
+      },
+      {
+         "id":"Clubhouse 66",
+         "properties":{
+            "Name":"Clubhouse 66",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"1200 E Rte 66",
+            "Zip":91740,
+            "geo_longitude":-117.84227,
+            "geo_latitude":34.128361,
+            "City":"Glendora"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.84227,
+               34.128361
+            ]
+         }
+      },
+      {
+         "id":"Frisella\u0027s Roastery",
+         "properties":{
+            "Name":"Frisella\u0027s Roastery",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"179 N  Ave ",
+            "Zip":91740,
+            "geo_longitude":-117.872604,
+            "geo_latitude":34.086276,
+            "City":"Glendora"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.872604,
+               34.086276
+            ]
+         }
+      },
+      {
+         "id":"Glendora Country Club",
+         "properties":{
+            "Name":"Glendora Country Club",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"2400 Country Club Dr",
+            "geo_accuracy":"house",
+            "Zip":91741,
+            "geo_longitude":-117.8202581875,
+            "geo_latitude":34.132475234375,
+            "City":"Glendora"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.8202581875,
+               34.132475234375
+            ]
+         }
+      },
+      {
+         "id":"Spaghetti Eddies",
+         "properties":{
+            "Name":"Spaghetti Eddies",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"946 S Grand Ave ",
+            "geo_accuracy":"house",
+            "Zip":"",
+            "geo_longitude":-117.872476528753,
+            "geo_latitude":34.1219876601388,
+            "City":"Glendora"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.872476528753,
+               34.1219876601388
+            ]
+         }
+      },
+      {
+         "id":"T. Phillips Alehouse",
+         "properties":{
+            "Name":"T. Phillips Alehouse",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"180 N Glendora Ave",
+            "Zip":91741,
+            "geo_longitude":-117.865339,
+            "geo_latitude":34.136119,
+            "City":"Glendora"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.865339,
+               34.136119
+            ]
+         }
+      },
+      {
+         "id":"Oh Crab",
+         "properties":{
+            "Name":"Oh Crab",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"2020 S Hacienda Blvd Unit F",
+            "Zip":91745,
+            "geo_longitude":-117.968675,
+            "geo_latitude":33.993068,
+            "City":"Hacienda Heights"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.968675,
+               33.993068
+            ]
+         }
+      },
+      {
+         "id":"Chase\u0027s Wine \u0026 Beer Bar",
+         "properties":{
+            "Name":"Chase\u0027s Wine \u0026 Beer Bar",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"2136 3rd St ",
+            "geo_accuracy":"house",
+            "Zip":91750,
+            "geo_longitude":-117.769490645251,
+            "geo_latitude":34.1002366578543,
+            "City":"La Verne"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.769490645251,
+               34.1002366578543
+            ]
+         }
+      },
+      {
+         "id":"Chili\u0027s",
+         "properties":{
+            "Name":"Chili\u0027s",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"1912 Foothill Blvd ",
+            "geo_accuracy":"house",
+            "Zip":91750,
+            "geo_longitude":-117.769897432432,
+            "geo_latitude":34.1147866756757,
+            "City":"La Verne"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.769897432432,
+               34.1147866756757
+            ]
+         }
+      },
+      {
+         "id":"House of Wings",
+         "properties":{
+            "Name":"House of Wings",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"2317 D St",
+            "geo_accuracy":"house",
+            "Zip":91750,
+            "geo_longitude":-117.770159287701,
+            "geo_latitude":34.1007633513419,
+            "City":"La Verne"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.770159287701,
+               34.1007633513419
+            ]
+         }
+      },
+      {
+         "id":"Lordsberg Taphouse",
+         "properties":{
+            "Name":"Lordsberg Taphouse",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"2335 D St ",
+            "geo_accuracy":"house",
+            "Zip":91750,
+            "geo_longitude":-117.770105636234,
+            "geo_latitude":34.1009010059456,
+            "City":"La Verne"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.770105636234,
+               34.1009010059456
+            ]
+         }
+      },
+      {
+         "id":"The Corner Butcher Shop",
+         "properties":{
+            "Name":"The Corner Butcher Shop",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"2359 Foothill Blvd ",
+            "geo_accuracy":"house",
+            "Zip":91750,
+            "geo_longitude":-117.760311194444,
+            "geo_latitude":34.1117587222222,
+            "City":"La Verne"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.760311194444,
+               34.1117587222222
+            ]
+         }
+      },
+      {
+         "id":"Applebee\u0027s",
+         "properties":{
+            "Name":"Applebee\u0027s",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"9241 Monte Vista Ave",
+            "geo_accuracy":"house",
+            "Zip":91763,
+            "geo_longitude":-117.698159,
+            "geo_latitude":34.0855053529412,
+            "City":"Montclair"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.698159,
+               34.0855053529412
+            ]
+         }
+      },
+      {
+         "id":"Vince\u0027s Spaghetti",
+         "properties":{
+            "Name":"Vince\u0027s Spaghetti",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"1206 W Holt Blvd",
+            "geo_accuracy":"house",
+            "Zip":91762,
+            "geo_longitude":-117.672366252198,
+            "geo_latitude":34.0633846675154,
+            "City":"Ontario"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.672366252198,
+               34.0633846675154
+            ]
+         }
+      },
+      {
+         "id":"Wingnuts",
+         "properties":{
+            "Name":"Wingnuts",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"1520 N Mountain Ave  ",
+            "Zip":91762,
+            "geo_longitude":-117.667922,
+            "geo_latitude":34.086417,
+            "City":"Ontario"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.667922,
+               34.086417
+            ]
+         }
+      },
+      {
+         "id":"Alibi East",
+         "properties":{
+            "Name":"Alibi East",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":" 225 S San Antonio Ave ",
+            "geo_accuracy":"house",
+            "Zip":91766,
+            "geo_longitude":-117.737119612245,
+            "geo_latitude":34.0578731632653,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.737119612245,
+               34.0578731632653
+            ]
+         }
+      },
+      {
+         "id":"Aladdin Jr.",
+         "properties":{
+            "Name":"Aladdin Jr.",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"3161 N Garey Ave",
+            "geo_accuracy":"house",
+            "Zip":"",
+            "geo_longitude":-117.748688,
+            "geo_latitude":34.1042004991134,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.748688,
+               34.1042004991134
+            ]
+         }
+      },
+      {
+         "id":"Characters Sport Bar",
+         "properties":{
+            "Name":"Characters Sport Bar",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"276 E 1st St. ",
+            "Zip":91766,
+            "geo_longitude":-117.748253,
+            "geo_latitude":34.058687,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.748253,
+               34.058687
+            ]
+         }
+      },
+      {
+         "id":"dba256",
+         "properties":{
+            "Name":"dba256",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"256 S Main St",
+            "geo_accuracy":"house",
+            "Zip":91766,
+            "geo_longitude":-117.752199,
+            "geo_latitude":34.0572857142857,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.752199,
+               34.0572857142857
+            ]
+         }
+      },
+      {
+         "id":"Fox Sports Bar \u0026 Grill",
+         "properties":{
+            "Name":"Fox Sports Bar \u0026 Grill",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"114 W 3rd St ",
+            "geo_accuracy":"house",
+            "Zip":91766,
+            "geo_longitude":-117.750371428571,
+            "geo_latitude":34.0568417142857,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.750371428571,
+               34.0568417142857
+            ]
+         }
+      },
+      {
+         "id":"Hi Brow",
+         "properties":{
+            "Name":"Hi Brow",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"547 E Foothill Blvd",
+            "Zip":91767,
+            "geo_longitude":-117.739251,
+            "geo_latitude":34.107612,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.739251,
+               34.107612
+            ]
+         }
+      },
+      {
+         "id":"Pomona Valley Mining Company",
+         "properties":{
+            "Name":"Pomona Valley Mining Company",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"1777 Gillette Rd ",
+            "geo_accuracy":"house",
+            "Zip":91768,
+            "geo_longitude":-117.784071952623,
+            "geo_latitude":34.0738252329017,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.784071952623,
+               34.0738252329017
+            ]
+         }
+      },
+      {
+         "id":"Restaurant at Kellogg Ranch",
+         "properties":{
+            "Name":"Restaurant at Kellogg Ranch",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":" 3801 W Temple Ave #79 ",
+            "geo_accuracy":"residential",
+            "Zip":91768,
+            "geo_longitude":-117.82069,
+            "geo_latitude":34.050566,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.82069,
+               34.050566
+            ]
+         }
+      },
+      {
+         "id":"The Rookery",
+         "properties":{
+            "Name":"The Rookery",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"117 W 2nd St",
+            "Zip":91766,
+            "geo_longitude":-117.750651,
+            "geo_latitude":34.057838,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.750651,
+               34.057838
+            ]
+         }
+      },
+      {
+         "id":"McKinley\u0027s Grille",
+         "properties":{
+            "Name":"McKinley\u0027s Grille",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"601 W McKinley Ave",
+            "geo_accuracy":"house",
+            "Zip":91766,
+            "geo_longitude":-117.761485,
+            "geo_latitude":34.077995,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.761485,
+               34.077995
+            ]
+         }
+      },
+      {
+         "id":"Anya\u0027s Pizza",
+         "properties":{
+            "Name":"Anya\u0027s Pizza",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"7270 Victoria Park Ln ",
+            "geo_accuracy":"house",
+            "Zip":91739,
+            "geo_longitude":-117.530278,
+            "geo_latitude":34.125397,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.530278,
+               34.125397
+            ]
+         }
+      },
+      {
+         "id":"Barboni\u0027s Pizza",
+         "properties":{
+            "Name":"Barboni\u0027s Pizza",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"9792 19th St ",
+            "geo_accuracy":"house",
+            "Zip":91737,
+            "geo_longitude":-117.591623265895,
+            "geo_latitude":34.1328572088576,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.591623265895,
+               34.1328572088576
+            ]
+         }
+      },
+      {
+         "id":"Four Points Sheraton",
+         "properties":{
+            "Name":"Four Points Sheraton",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"11960 E Foothill Blvd ",
+            "Zip":91739,
+            "geo_longitude":-117.542759,
+            "geo_latitude":34.106705,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.542759,
+               34.106705
+            ]
+         }
+      },
+      {
+         "id":"Lazy Dog Café",
+         "properties":{
+            "Name":"Lazy Dog Café",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"11560 4th St ",
+            "geo_accuracy":"house",
+            "Zip":91730,
+            "geo_longitude":-117.553268556044,
+            "geo_latitude":34.0773457146415,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.553268556044,
+               34.0773457146415
+            ]
+         }
+      },
+      {
+         "id":"Pizza Royal",
+         "properties":{
+            "Name":"Pizza Royal",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"8671 Base Line Rd ",
+            "geo_accuracy":"house",
+            "Zip":91730,
+            "geo_longitude":-117.616775148148,
+            "geo_latitude":34.121483,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.616775148148,
+               34.121483
+            ]
+         }
+      },
+      {
+         "id":"San Dimas Wine Shop",
+         "properties":{
+            "Name":"San Dimas Wine Shop",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"225 W Bonita Ave",
+            "geo_accuracy":"house",
+            "Zip":91773,
+            "geo_longitude":-117.809730384615,
+            "geo_latitude":34.1067448461538,
+            "City":"San Dimas"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.809730384615,
+               34.1067448461538
+            ]
+         }
+      },
+      {
+         "id":"Black Watch Pub",
+         "properties":{
+            "Name":"Black Watch Pub",
+            "State":"CA",
+            "Type":"Pub",
+            "Address":"497 N Central Ave",
+            "geo_accuracy":"house",
+            "Zip":91786,
+            "geo_longitude":-117.689734006711,
+            "geo_latitude":34.0968311879195,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.689734006711,
+               34.0968311879195
+            ]
+         }
+      },
+      {
+         "id":"Grazi\u0027s Italian Restaurant",
+         "properties":{
+            "Name":"Grazi\u0027s Italian Restaurant",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"1615 N Mountain Ave",
+            "geo_accuracy":"house",
+            "Zip":91784,
+            "geo_longitude":-117.670399976138,
+            "geo_latitude":34.107916,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.670399976138,
+               34.107916
+            ]
+         }
+      },
+      {
+         "id":"JD Allison\u0027s Bar \u0026 Grill",
+         "properties":{
+            "Name":"JD Allison\u0027s Bar \u0026 Grill",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"291 N 2nd Ave ",
+            "geo_accuracy":"house",
+            "Zip":91786,
+            "geo_longitude":-117.648538631474,
+            "geo_latitude":34.0970907310851,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.648538631474,
+               34.0970907310851
+            ]
+         }
+      },
+      {
+         "id":"Limericks Tavern",
+         "properties":{
+            "Name":"Limericks Tavern",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"1234 W Foothill Blvd  ",
+            "Zip":91786,
+            "geo_longitude":-117.671903,
+            "geo_latitude":34.105821,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.671903,
+               34.105821
+            ]
+         }
+      },
+      {
+         "id":"Magdaleno\u0027s Restaurant",
+         "properties":{
+            "Name":"Magdaleno\u0027s Restaurant",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"220 N Central Ave ",
+            "geo_accuracy":"house",
+            "Zip":91786,
+            "geo_longitude":-117.689536795918,
+            "geo_latitude":34.0968612857143,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.689536795918,
+               34.0968612857143
+            ]
+         }
+      },
+      {
+         "id":"Outback Steakhouse",
+         "properties":{
+            "Name":"Outback Steakhouse",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"530 N Mountain Ave",
+            "geo_accuracy":"house",
+            "Zip":91786,
+            "geo_longitude":-117.67008401335,
+            "geo_latitude":34.1025575853569,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.67008401335,
+               34.1025575853569
+            ]
+         }
+      },
+      {
+         "id":"Scoully\u0027s Sports Bar",
+         "properties":{
+            "Name":"Scoully\u0027s Sports Bar",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"1041 E 16th St ",
+            "Zip":91784,
+            "geo_longitude":-117.636997,
+            "geo_latitude":34.121744,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.636997,
+               34.121744
+            ]
+         }
+      },
+      {
+         "id":"Tequila Hoppers",
+         "properties":{
+            "Name":"Tequila Hoppers",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"60 N Mountain Ave  ",
+            "geo_accuracy":"house",
+            "Zip":91786,
+            "geo_longitude":-117.670052272035,
+            "geo_latitude":34.0949305537358,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.670052272035,
+               34.0949305537358
+            ]
+         }
+      },
+      {
+         "id":"The Arena",
+         "properties":{
+            "Name":"The Arena",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"1721 W 11th St  ",
+            "geo_accuracy":"house",
+            "Zip":91786,
+            "geo_longitude":-117.683399723287,
+            "geo_latitude":34.1033288822137,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.683399723287,
+               34.1033288822137
+            ]
+         }
+      },
+      {
+         "id":"The Buffalo Inn",
+         "properties":{
+            "Name":"The Buffalo Inn",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"1814 W Foothill  Blvd ",
+            "Zip":91786,
+            "geo_longitude":-117.687724,
+            "geo_latitude":34.106572,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.687724,
+               34.106572
+            ]
+         }
+      },
+      {
+         "id":"The Bulldog Pub",
+         "properties":{
+            "Name":"The Bulldog Pub",
+            "State":"CA",
+            "Type":"Pub",
+            "Address":"1667 N Mountain Ave",
+            "geo_accuracy":"house",
+            "Zip":91784,
+            "geo_longitude":-117.670404669382,
+            "geo_latitude":34.1236345737013,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.670404669382,
+               34.1236345737013
+            ]
+         }
+      },
+      {
+         "id":"The Heights Restaurant",
+         "properties":{
+            "Name":"The Heights Restaurant",
+            "State":"CA",
+            "Type":"Restaurant ",
+            "Address":"1883 N Campus Ave",
+            "Zip":91784,
+            "geo_longitude":-117.640724,
+            "geo_latitude":34.131848,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.640724,
+               34.131848
+            ]
+         }
+      },
+      {
+         "id":"The Sand Bar",
+         "properties":{
+            "Name":"The Sand Bar",
+            "State":"CA",
+            "Type":"Bar",
+            "Address":"5363 Arrow Hwy",
+            "geo_accuracy":"house",
+            "Zip":"",
+            "geo_longitude":-117.688005377778,
+            "geo_latitude":34.092261,
+            "City":" Montclair"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.688005377778,
+               34.092261
+            ]
+         }
+      },
+      {
+         "id":"Stater Bros. Markets",
+         "properties":{
+            "Name":"Stater Bros. Markets",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"6989 Schaefer Ave",
+            "geo_accuracy":"house",
+            "Zip":"",
+            "geo_longitude":-117.652576640106,
+            "geo_latitude":34.0047162170685,
+            "City":" Chino"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.652576640106,
+               34.0047162170685
+            ]
+         }
+      },
+      {
+         "id":"BevMo",
+         "properties":{
+            "Name":"BevMo",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"12945 Peyton Dr",
+            "geo_accuracy":"house",
+            "Zip":91709,
+            "geo_longitude":-117.744782163921,
+            "geo_latitude":34.0184267559936,
+            "City":"Chino Hills"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.744782163921,
+               34.0184267559936
+            ]
+         }
+      },
+      {
+         "id":"SuperStop Liquor",
+         "properties":{
+            "Name":"SuperStop Liquor",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"3440 Falcon St",
+            "geo_accuracy":"house",
+            "Zip":"",
+            "geo_longitude":-117.753850027908,
+            "geo_latitude":34.1089502402031,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.753850027908,
+               34.1089502402031
+            ]
+         }
+      },
+      {
+         "id":"Guillens Central Liquor",
+         "properties":{
+            "Name":"Guillens Central Liquor",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"13115 Central Ave",
+            "geo_accuracy":"house",
+            "Zip":"",
+            "geo_longitude":-117.689176211692,
+            "geo_latitude":34.0151772882208,
+            "City":"Chino"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.689176211692,
+               34.0151772882208
+            ]
+         }
+      },
+      {
+         "id":"Stater Bros. Markets",
+         "properties":{
+            "Name":"Stater Bros. Markets",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"14250  Chino HIlls Pkwy",
+            "Zip":91709,
+            "geo_longitude":-117.757927,
+            "geo_latitude":33.994718,
+            "City":"Chino Hills"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.757927,
+               33.994718
+            ]
+         }
+      },
+      {
+         "id":"BevMo",
+         "properties":{
+            "Name":"BevMo",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"21660 Valley Blvd ",
+            "geo_accuracy":"primary",
+            "Zip":91789,
+            "geo_longitude":-117.9475666,
+            "geo_latitude":34.0152504,
+            "City":"City of Industry"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.9475666,
+               34.0152504
+            ]
+         }
+      },
+      {
+         "id":"La West",
+         "properties":{
+            "Name":"La West",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"333 E Arrow Hwy",
+            "geo_accuracy":"house",
+            "Zip":91711,
+            "geo_longitude":-117.710456529219,
+            "geo_latitude":34.09154183764,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.710456529219,
+               34.09154183764
+            ]
+         }
+      },
+      {
+         "id":"Packing House Wine Merchants",
+         "properties":{
+            "Name":"Packing House Wine Merchants",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"540 W 1st St",
+            "Zip":91711,
+            "geo_longitude":-117.720938,
+            "geo_latitude":34.094539,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.720938,
+               34.094539
+            ]
+         }
+      },
+      {
+         "id":"Rocky Liquor",
+         "properties":{
+            "Name":"Rocky Liquor",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"1045 W Foothill Blvd",
+            "geo_accuracy":"primary",
+            "Zip":91711,
+            "geo_longitude":-117.7516861,
+            "geo_latitude":34.1088645,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7516861,
+               34.1088645
+            ]
+         }
+      },
+      {
+         "id":"Stater Bros. Markets",
+         "properties":{
+            "Name":"Stater Bros. Markets",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"1055 W Foothill Blvd",
+            "geo_accuracy":"primary",
+            "Zip":91711,
+            "geo_longitude":-117.7516861,
+            "geo_latitude":34.1088645,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.7516861,
+               34.1088645
+            ]
+         }
+      },
+      {
+         "id":"Wolfe\u0027s Market",
+         "properties":{
+            "Name":"Wolfe\u0027s Market",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"160 W Foothill Blvd",
+            "geo_accuracy":"house",
+            "Zip":91711,
+            "geo_longitude":-117.749932333333,
+            "geo_latitude":34.1081946666667,
+            "City":"Claremont"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.749932333333,
+               34.1081946666667
+            ]
+         }
+      },
+      {
+         "id":"BevMo",
+         "properties":{
+            "Name":"BevMo",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"1397 E Gladstone St",
+            "geo_accuracy":"house",
+            "Zip":"",
+            "geo_longitude":-117.839258369534,
+            "geo_latitude":34.113996147223,
+            "City":"Glendora"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.839258369534,
+               34.113996147223
+            ]
+         }
+      },
+      {
+         "id":"Stater Bros. Markets",
+         "properties":{
+            "Name":"Stater Bros. Markets",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"1830 E Rte 66",
+            "Zip":91740,
+            "geo_longitude":-117.830292,
+            "geo_latitude":34.127056,
+            "City":"Glendora"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.830292,
+               34.127056
+            ]
+         }
+      },
+      {
+         "id":"Stater Bros. Markets",
+         "properties":{
+            "Name":"Stater Bros. Markets",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"2090 Foothill Blvd",
+            "geo_accuracy":"house",
+            "Zip":91750,
+            "geo_longitude":-117.765494,
+            "geo_latitude":34.113314,
+            "City":"La Verne"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.765494,
+               34.113314
+            ]
+         }
+      },
+      {
+         "id":"Stater Bros. Markets",
+         "properties":{
+            "Name":"Stater Bros. Markets",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"9575 Central Ave",
+            "geo_accuracy":"house",
+            "Zip":91763,
+            "geo_longitude":-117.689449393939,
+            "geo_latitude":34.0799683838384,
+            "City":"Montclair"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.689449393939,
+               34.0799683838384
+            ]
+         }
+      },
+      {
+         "id":"Stater Bros. Markets",
+         "properties":{
+            "Name":"Stater Bros. Markets",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"1939 E 4th St",
+            "geo_accuracy":"residential",
+            "Zip":"",
+            "geo_longitude":-117.804904,
+            "geo_latitude":34.110673,
+            "City":"Ontario"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.804904,
+               34.110673
+            ]
+         }
+      },
+      {
+         "id":"Pomona Wine Cellar",
+         "properties":{
+            "Name":"Pomona Wine Cellar",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"468 E Holt Ave.",
+            "Zip":91767,
+            "geo_longitude":-117.742179,
+            "geo_latitude":34.062263,
+            "City":"Pomona"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.742179,
+               34.062263
+            ]
+         }
+      },
+      {
+         "id":"BevMo",
+         "properties":{
+            "Name":"BevMo",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"12204 E Foothill Blvd.",
+            "Zip":91739,
+            "geo_longitude":-117.538891,
+            "geo_latitude":34.107604,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.538891,
+               34.107604
+            ]
+         }
+      },
+      {
+         "id":"Liquor Paradise",
+         "properties":{
+            "Name":"Liquor Paradise",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"10277 Foothill Blvd",
+            "geo_accuracy":"house",
+            "Zip":91730,
+            "geo_longitude":-117.579854201139,
+            "geo_latitude":34.1065315585409,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.579854201139,
+               34.1065315585409
+            ]
+         }
+      },
+      {
+         "id":"Ramona Liquor",
+         "properties":{
+            "Name":"Ramona Liquor",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"9950 E Foothill Blvd ",
+            "geo_accuracy":"primary",
+            "Zip":91730,
+            "geo_longitude":-117.6286613,
+            "geo_latitude":34.1067046,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.6286613,
+               34.1067046
+            ]
+         }
+      },
+      {
+         "id":"Red Carpet Wine \u0026 Spirits",
+         "properties":{
+            "Name":"Red Carpet Wine \u0026 Spirits",
+            "State":"CA",
+            "Type":"Store",
+            "Address":" 8678 19th St # 150 ",
+            "geo_accuracy":"house",
+            "Zip":91701,
+            "geo_longitude":-117.616484,
+            "geo_latitude":34.132702,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.616484,
+               34.132702
+            ]
+         }
+      },
+      {
+         "id":"Stater Bros. Markets",
+         "properties":{
+            "Name":"Stater Bros. Markets",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"9750 19th St",
+            "geo_accuracy":"house",
+            "Zip":"",
+            "geo_longitude":-117.592517,
+            "geo_latitude":34.132822,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.592517,
+               34.132822
+            ]
+         }
+      },
+      {
+         "id":"Total Wine \u0026 More",
+         "properties":{
+            "Name":"Total Wine \u0026 More",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"8201 Day Creek Blvd ",
+            "geo_accuracy":"secondary",
+            "Zip":91739,
+            "geo_longitude":-117.5366564,
+            "geo_latitude":34.1470086,
+            "City":"Rancho Cucamonga"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.5366564,
+               34.1470086
+            ]
+         }
+      },
+      {
+         "id":"Bourbon Street Market",
+         "properties":{
+            "Name":"Bourbon Street Market",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"1621 N Mountain Ave  ",
+            "geo_accuracy":"house",
+            "Zip":91784,
+            "geo_longitude":-117.670400511409,
+            "geo_latitude":34.1222458107603,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.670400511409,
+               34.1222458107603
+            ]
+         }
+      },
+      {
+         "id":"Euclid Liquor",
+         "properties":{
+            "Name":"Euclid Liquor",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"140 S Euclid Ave",
+            "geo_accuracy":"house",
+            "Zip":91786,
+            "geo_longitude":-117.651029368101,
+            "geo_latitude":34.0932239792541,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.651029368101,
+               34.0932239792541
+            ]
+         }
+      },
+      {
+         "id":"Liquorama",
+         "properties":{
+            "Name":"Liquorama",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"901 W Foothill Blvd # A",
+            "geo_accuracy":"house",
+            "Zip":91786,
+            "geo_longitude":-117.387959,
+            "geo_latitude":34.106672,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.387959,
+               34.106672
+            ]
+         }
+      },
+      {
+         "id":"Stater Bros. Markets",
+         "properties":{
+            "Name":"Stater Bros. Markets",
+            "State":"CA",
+            "Type":"Store",
+            "Address":"919 N Mountain Ave",
+            "geo_accuracy":"house",
+            "Zip":"",
+            "geo_longitude":-117.670310675286,
+            "geo_latitude":34.1055898940747,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.670310675286,
+               34.1055898940747
+            ]
+         }
+      },
+      {
+         "id":"Pacific Wine Merchants",
+         "properties":{
+            "Name":"Pacific Wine Merchants",
+            "State":"CA",
+            "Type":"Store",
+            "Address":" 210 E A St  ",
+            "geo_accuracy":"house",
+            "Zip":91786,
+            "geo_longitude":-117.648259287066,
+            "geo_latitude":34.094691,
+            "City":"Upland"
+         },
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -117.648259287066,
+               34.094691
+            ]
+         }
+      }
+   ],
+   "type":"FeatureCollection"
+}
